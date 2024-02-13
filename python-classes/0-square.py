@@ -1,0 +1,9 @@
+#!/usr/bin/python3
+                    """
+     Square : This module defines the Square 
+     """
+                    class Square:
+                        """
+                            Square : For now, an empty class with no attributes or methods.
+                                """
+                                    pass
